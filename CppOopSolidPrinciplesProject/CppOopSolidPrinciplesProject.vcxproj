@@ -125,8 +125,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CppOopSolidPrinciplesProject.cpp" />
+    <ClCompile Include="Examples.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Examples.h" />
+    <ClInclude Include="PrincipleL.h" />
+    <ClInclude Include="PrincipleO.h" />
     <ClInclude Include="PrincipleS.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

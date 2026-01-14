@@ -1,0 +1,10 @@
+<products>
+	<product>
+		<name>Computer</name>
+		<price>180000</price>
+	</product>
+	<product>
+		<name>Notebook</name>
+		<price>210000</price>
+	</product>
+</products>

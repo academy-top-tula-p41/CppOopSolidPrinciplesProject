@@ -1,0 +1,2 @@
+Product Name: Phone, Price: 85000
+Product Name: Computer, Price: 180000
