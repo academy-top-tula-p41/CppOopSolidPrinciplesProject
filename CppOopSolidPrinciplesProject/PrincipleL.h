@@ -3,6 +3,7 @@
 
 class Shape
 {
+protected:
 	int x;
 	int y;
 

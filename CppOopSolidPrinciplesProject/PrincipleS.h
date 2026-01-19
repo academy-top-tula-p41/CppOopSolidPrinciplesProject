@@ -216,7 +216,10 @@ public:
 
 class StringAdv : public std::string
 {
+	std::string str;
 public:
+	std::string& Str() { return str; }
+
 	static void Trim(std::string& str)
 	{
 		auto it1 = std::ranges::find_if(str, [](char symbol) {

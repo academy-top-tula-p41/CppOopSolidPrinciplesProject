@@ -129,6 +129,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Examples.h" />
+    <ClInclude Include="PrincipleI.h" />
     <ClInclude Include="PrincipleL.h" />
     <ClInclude Include="PrincipleO.h" />
     <ClInclude Include="PrincipleS.h" />
